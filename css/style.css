@@ -231,3 +231,33 @@ body {
 .legend svg {
   margin-right: 15px;
 }
+
+.price {
+  padding-top: 20px;
+  padding-bottom: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.price-label {
+  display: block;
+  font-size: 18px;
+  line-height: 21px;
+}
+
+.price-tag {
+  font-size: 52px;
+  line-height: 61px;
+}
+
+.button {
+  background:#FE8E05;
+  border-radius: 5px;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 21px;
+  padding: 24px 52px;
+  text-decoration: none;
+}
